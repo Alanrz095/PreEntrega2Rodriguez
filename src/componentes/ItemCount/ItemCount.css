@@ -1,0 +1,29 @@
+.counter{
+    position: relative;
+    top:4em;
+    left: 47em;
+}
+
+.controls{
+    position: relative;
+    right: 42.5em;
+    bottom: 6em;
+}
+
+.controls .Button1{
+    position: relative;
+    right: 4em;
+    top: 2.5em;
+}
+
+.controls .Button2{
+    position: relative;
+    left: 2em;
+    bottom: 2.2em;
+}
+
+.counter .Button3{
+    position: relative;
+    right: 47em;
+    bottom: 7em;
+}
